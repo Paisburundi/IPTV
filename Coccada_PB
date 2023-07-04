@@ -1,1 +1,841 @@
-
+#EXTM3U 
+#EXTINF: -1 tvg-name="Globo São Paulo SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV Aberta", Globo São Paulo SD¹
+http://milka99.xyz:80/992847846383/386187307056/73092
+#EXTINF: -1 tvg-id="GloboRJ.br" tvg-name="Globo Rio SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV Aberta", Globo Rio SD¹
+http://milka99.xyz:80/992847846383/386187307056/73089
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="Band SP SD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV Aberta", Band SP SD¹
+http://milka99.xyz:80/992847846383/386187307056/89641
+#EXTINF: -1 tvg-id="RecordTV.br" tvg-name="Record Rio HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV Aberta", Record Rio HD
+http://milka99.xyz:80/992847846383/386187307056/28748
+#EXTINF: -1 tvg-id="SBT.br" tvg-name="SBT SP SD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV Aberta", SBT SP SD¹
+http://milka99.xyz:80/992847846383/386187307056/89587
+#EXTINF: -1 tvg-id="Redetv.br" tvg-name="RedeTV! HD¹" tvg-logo="http://go555.xyz:80/images/caf8f8a6082d14fe697e9b514a10a12b.png" group-title="TV Aberta", RedeTV! HD¹
+http://milka99.xyz:80/992847846383/386187307056/6753
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="A&E HD¹" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngMfMidywtRamk43EWjTPHkoxIvdkEJMbLlr-MYu6o=s900-c-k-c0x00ffffff-no-rj" group-title="TV Filmes e Series", A&E HD¹
+http://milka99.xyz:80/992847846383/386187307056/28465
+#EXTINF: -1 tvg-id="Amc.br" tvg-name="AMC HD¹" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41d1YuEXElL.png" group-title="TV Filmes e Series", AMC HD¹
+http://milka99.xyz:80/992847846383/386187307056/14131
+#EXTINF: -1 tvg-id="AXN.br" tvg-name="AXN HD¹" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniw3BQ6O-KV3zsIqjxDdlZwfKFHJL_OA2dhYt3ENQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV Filmes e Series", AXN HD¹
+http://milka99.xyz:80/992847846383/386187307056/28476
+#EXTINF: -1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="https://yt3.ggpht.com/a/AATXAJyGTy90gcEZjjVRsInsVSLsHpJ_Gh_81tHdWA6dNg=s900-c-k-c0x00ffffff-no-rj" group-title="TV Filmes e Series", CANAL BRASIL HD¹
+http://milka99.xyz:80/992847846383/386187307056/17789
+#EXTINF: -1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="http://go555.xyz:80/images/1bfe09a51b1ee3dd477063cfcbdd577d.png" group-title="TV Filmes e Series", CINEMAX HD¹
+http://milka99.xyz:80/992847846383/386187307056/28506
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="CINECANAL HD¹" tvg-logo="http://go555.xyz:80/images/ac8dece122cf7079326dc804de8a6f59.png" group-title="TV Filmes e Series", CINECANAL HD¹
+http://milka99.xyz:80/992847846383/386187307056/93424
+#EXTINF: -1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD¹" tvg-logo="http://go555.xyz:80/images/e23e1f4ca05eb4ab3c35eacbb890175b.png" group-title="TV Filmes e Series", STAR CHANNEL HD¹
+http://milka99.xyz:80/992847846383/386187307056/6814
+#EXTINF: -1 tvg-id="FX.br" tvg-name="FX HD¹" tvg-logo="https://static.wikia.nocookie.net/youtube/images/4/42/FX_Networks1.jpg/revision/latest?cb=20191119054805" group-title="TV Filmes e Series", FX HD¹
+http://milka99.xyz:80/992847846383/386187307056/28587
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="http://go555.xyz:80/images/4aa7ab9468f79cb7f99519ee38396c61.png" group-title="TV Filmes e Series", MEGAPIX HD¹
+http://milka99.xyz:80/992847846383/386187307056/28701
+#EXTINF: -1 tvg-id="Paramount.br" tvg-name="PARAMOUNT CHANNEL HD¹" tvg-logo="https://images2.imgbox.com/4a/73/C8xZYbUO_o.png" group-title="TV Filmes e Series", PARAMOUNT CHANNEL HD¹
+http://milka99.xyz:80/992847846383/386187307056/28723
+#EXTINF: -1 tvg-id="Sony.br" tvg-name="SONY CHANNEL HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/600px-Sony_Channel_latam_logo.svg.png" group-title="TV Filmes e Series", SONY CHANNEL HD¹
+http://milka99.xyz:80/992847846383/386187307056/28501
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="SONY MOVIES HD³" tvg-logo="http://go555.xyz:80/images/dc50990e928e5f3fba700fae50970228.png" group-title="TV Filmes e Series", SONY MOVIES HD³
+http://milka99.xyz:80/992847846383/386187307056/87938
+#EXTINF: -1 tvg-id="Space.br" tvg-name="SPACE HD¹" tvg-logo="http://go555.xyz:80/images/906baed8a6a89b13d51ad2fbd8f36ef6.jpg" group-title="TV Filmes e Series", SPACE HD¹
+http://milka99.xyz:80/992847846383/386187307056/28762
+#EXTINF: -1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD¹" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhRZ_UOLSKPDHrWUwN0uxawtuVugEdQ4YidKw-m=s900-c-k-c0x00ffffff-no-rj" group-title="TV Filmes e Series", STUDIO UNIVERSAL HD¹
+http://milka99.xyz:80/992847846383/386187307056/6712
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="SYFY HD¹" tvg-logo="http://go555.xyz:80/images/d9e42e30d3f228308e86cbe663413c9f.png" group-title="TV Filmes e Series", SYFY HD¹
+http://milka99.xyz:80/992847846383/386187307056/28775
+#EXTINF: -1 tvg-id="TBS.br" tvg-name="TNT NOVELAS HD¹" tvg-logo="http://go555.xyz:80/images/e459eb1a0c1b9dea003f9a334ef6e8bb.png" group-title="TV Filmes e Series", TNT NOVELAS HD¹
+http://milka99.xyz:80/992847846383/386187307056/6708
+#EXTINF: -1 tvg-id="TCM.br" tvg-name="TCM HD¹" tvg-logo="https://images2.imgbox.com/e6/6d/iGwzSkQh_o.png" group-title="TV Filmes e Series", TCM HD¹
+http://milka99.xyz:80/992847846383/386187307056/64212
+#EXTINF: -1 tvg-id="TNTSeries.br" tvg-name="TNT SÉRIES HD¹" tvg-logo="http://go555.xyz:80/images/97371fcdc06c69e74435e10ef420f22a.jpg" group-title="TV Filmes e Series", TNT SÉRIES HD¹
+http://milka99.xyz:80/992847846383/386187307056/28802
+#EXTINF: -1 tvg-id="UniversalChannel.br" tvg-name="UNIVERSAL TV HD¹" tvg-logo="http://go555.xyz:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="TV Filmes e Series", UNIVERSAL TV HD¹
+http://milka99.xyz:80/992847846383/386187307056/6685
+#EXTINF: -1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL HD¹" tvg-logo="http://go555.xyz:80/images/b6f2b699a18321e1931ed14142dfa850.png" group-title="TV Filmes e Series", WARNER CHANNEL HD¹
+http://milka99.xyz:80/992847846383/386187307056/28822
+#EXTINF: -1 tvg-name="Cine SKY 01³" tvg-logo="http://go555.xyz:80/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TV Filmes e Series", Cine SKY 01³
+http://milka99.xyz:80/992847846383/386187307056/73060
+#EXTINF: -1 tvg-name="Cine SKY 02³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 02³
+http://milka99.xyz:80/992847846383/386187307056/73061
+#EXTINF: -1 tvg-name="Cine SKY 03³" tvg-logo="http://go555.xyz:80/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TV Filmes e Series", Cine SKY 03³
+http://milka99.xyz:80/992847846383/386187307056/73062
+#EXTINF: -1 tvg-name="Cine SKY 04³" tvg-logo="http://go555.xyz:80/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TV Filmes e Series", Cine SKY 04³
+http://milka99.xyz:80/992847846383/386187307056/73063
+#EXTINF: -1 tvg-name="Cine SKY 05³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 05³
+http://milka99.xyz:80/992847846383/386187307056/73064
+#EXTINF: -1 tvg-name="Cine SKY 06³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 06³
+http://milka99.xyz:80/992847846383/386187307056/73065
+#EXTINF: -1 tvg-name="Cine SKY 07³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 07³
+http://milka99.xyz:80/992847846383/386187307056/73066
+#EXTINF: -1 tvg-name="Cine SKY 08³" tvg-logo="http://go555.xyz:80/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TV Filmes e Series", Cine SKY 08³
+http://milka99.xyz:80/992847846383/386187307056/73067
+#EXTINF: -1 tvg-name="Cine SKY 09³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 09³
+http://milka99.xyz:80/992847846383/386187307056/73068
+#EXTINF: -1 tvg-name="Cine SKY 10³" tvg-logo="https://images2.imgbox.com/8d/01/A2v5FWxg_o.png" group-title="TV Filmes e Series", Cine SKY 10³
+http://milka99.xyz:80/992847846383/386187307056/73069
+#EXTINF: -1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://go555.xyz:80/images/797554d64bd7c11ceb6ee8cc9ec05724.png" group-title="TV Entretenimento", ARTE 1 HD¹
+http://milka99.xyz:80/992847846383/386187307056/17788
+#EXTINF: -1 tvg-id="Bis.br" tvg-name="BIS HD¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ypg1Q1qIIth1xmQss90D2KIj0W6ajEo4GCxDx0JDzBQWQCCUjL5Rn9ACvY8B5R7hwNM&usqp=CAU" group-title="TV Entretenimento", BIS HD¹
+http://milka99.xyz:80/992847846383/386187307056/6873
+#EXTINF: -1 tvg-id="Futura.br" tvg-name="CANAL FUTURA HD¹" tvg-logo="http://go555.xyz:80/images/4765f59107dce7915623d426558024b5.png" group-title="TV Entretenimento", CANAL FUTURA HD¹
+http://milka99.xyz:80/992847846383/386187307056/6865
+#EXTINF: -1 tvg-id="ComedyCentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="https://img.utdstc.com/icon/270/8c5/2708c5fe1f2ae7e7eb301ab47d63536159fb29a8394fcc1e388389527eda1925:200" group-title="TV Entretenimento", COMEDY CENTRAL HD¹
+http://milka99.xyz:80/992847846383/386187307056/14137
+#EXTINF: -1 tvg-id="DiscoveryHomeHealth.br" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://go555.xyz:80/images/73249824839cc4bd69ecf36c6a79dc71.png" group-title="TV Entretenimento", DISCOVERY HOME & HEALTH HD¹
+http://milka99.xyz:80/992847846383/386187307056/6846
+#EXTINF: -1 tvg-id="TLC.br" tvg-name="DISCOVERY TLC HD¹" tvg-logo="http://go555.xyz:80/images/ae917476740eb77bc7cbc73f2ca20dcb.png" group-title="TV Entretenimento", DISCOVERY TLC HD¹
+http://milka99.xyz:80/992847846383/386187307056/28534
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="DOG TV HD" tvg-logo="https://images2.imgbox.com/5b/54/nOOt93AE_o.png" group-title="TV Entretenimento", DOG TV HD
+http://milka99.xyz:80/992847846383/386187307056/6898
+#EXTINF: -1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="http://go555.xyz:80/images/a1d7321a567283ceb73e758a348db2a4.png" group-title="TV Entretenimento", FOOD NETWORK HD¹
+http://milka99.xyz:80/992847846383/386187307056/28565
+#EXTINF: -1 tvg-id="Gnt.br" tvg-name="GNT HD¹" tvg-logo="http://go555.xyz:80/images/2663a72a7de821093a33fb205354ef7a.png" group-title="TV Entretenimento", GNT HD¹
+http://milka99.xyz:80/992847846383/386187307056/28666
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://go555.xyz:80/images/f07ea42923bf006c9a73e046c192c0c2.png" group-title="TV Entretenimento", LIFETIME HD¹
+http://milka99.xyz:80/992847846383/386187307056/28696
+#EXTINF: -1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="http://go555.xyz:80/images/84b313682fe600ca3592b5abe6504045.png" group-title="TV Entretenimento", MULTISHOW HD¹
+http://milka99.xyz:80/992847846383/386187307056/28705
+#EXTINF: -1 tvg-id="MTV.br" tvg-name="MTV HD¹" tvg-logo="http://go555.xyz:80/images/29bea291724ae3da33f94988951c1917.png" group-title="TV Entretenimento", MTV HD¹
+http://milka99.xyz:80/992847846383/386187307056/40471
+#EXTINF: -1 tvg-id="Off.br" tvg-name="OFF HD¹" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAt1BMVEUAAAD49/L///3///81NDP///r4+PH9/Pf7+vX49/H4+O////n8/PUAAAP6+fOxsKzz8u3j4t+ioZ1VVFOYmJSqqaW+vbkVFBTY19Ls6+aamZbEw79PTkyioqNXWFXJycVmZmaHiITU0888PDqAgH0yMjMpKCdiYV8jIh9qa2a3t7VwcG8YFxYNDAt7e3ympaBFREEeHiEREw2OjoolJB4kJCbOz8nj5N0vMCw5OTwFBwB3dnRHSEVXvuxdAAAK4ElEQVR4nO2cDVfiOhOA28Q0sS1fIgiigoAfgJ/Lvbrv6v//XW9bwHYmTUCXlp575jlnl3UZpNNMJpOZSR2HIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIP47PEza7fbNjsJnsfDRY6EXtFeeGi3JGBOCMfft8sIuvGi0YtnoD5Pj56tyrvCvmA1YIJW7QUnWfD7LkavFf7W7gYDCx5379XsVZdFn0sVI1s3T0blrcXmMhUM+uC37qnfnpsc8Tb8IX7KlJvwwZipH1vMkOznAte/Ede4lJxyLFnIkH0K6vkFatKo5jANm0i+xPvclO78arG4RVrJ9OD2M9IRNQfdYsYxXHVrvRgQfHUwREz3dw2DYy0Z4KEwGmgpXbRSH2xU89rz1QtBgvuZDMV5Qrbm43GZ1CbLn1CIVP3YSVq1DK5Vlwne5Ztfn15Hww04K+i6v0qLRUlutLkKKZFUcG9eULCE7PbRWGabMuLSlKD5IJuFslyGss7eHQ2uVJWcANY1Ffx1V95XpbmziId+X/dlhNUJc56yESsZ4x+urVux8LRwNoXZDVsL+RnPFOgfVR+cdT6xjxVuN89OTrghWV83fvkJvfRYqlgjPVZB81uW9XfeV32Y5bI2//NflJHkZXa5+/BitXxfJy+tl+rFPbWKJt8nmVwaRQqI5+9oRvTI8gqK3iXWe6pFwqD4KUs+5Y8Ppy8eYxeFjzenwlSsb8mny+n6dvNzy1So17acf7ITomtk0ffOsL/lz5ltOcWQAXGa0c54XoVvCjK88wclR/PdEnneTH91OM3nlK8vpf/DktdNNP9n3zApG96QHYpMeMlIB1oTH3otTFK/8Lvtjf3Gx1swJY7u8Xyl22nNkcg3D81SWQw3lwPY9yKLleK9a2JhvviqZL5EmTqLTi3BOY4NcJFb5wH+tdXPThMqTgBoyW0bpCmnIjuD7teISGGyU+eE+0sRRcXC/jBSPNzLPiVW+Lzf/4qlwA05DmbFfnZMACKvyhvCBZ+98K46uBrFbnTeiq2qtf3iKB/Iutt6LICMMt7JiYfueAbwd4nr/qhi4yQyKM206Zw/OSTyfxrGukQ+K/b3D287Z4z+x5PItlUapGWb9HoWE7/evigme2YCzkEeweLB4vHY0ek5stkPGkv9vr4Z2zRXUUL3bvuUWCTeLUieH8XD12n503tZLUjRYf5KhfeSzaGRma8t8iwx2nFrXCVzgZMOxcI2modXt7pl/eXJp1/xqtrGzYObMVjd5LiKrZOtguDFIhnbDAC5wAiyGGOyVSt0g3fb4+zvvTRy+CesHndVcXKk/2Li9DxX5pcRek92eC2HWTU8PeiW2JeO/d15AQGFYmWrwnUcclFq/AXkl8bdXXAYLuHOyBzRH8HZomZhK1isukaOx5lam3/FKxfFw9A3uh9DRyOmtWfjfOdLw/PYGSky2X97f8Xs57yeVvJ0ReOdk/TjeOYXofd4s1FDPTvpMyp3yYEUhi9scRotFl4fb82UFI/Qa3N5ocOl5ubW/MmGFzcORKw8+fjHB9kv9GY3dcvKFo3oFKdgLtn95KciC0qStw3uYNfao/ecKSvfgHmYN+6cIBcfbK5uloYpQ8NlefC8VOSxAwauKeNEEe9T+Q5pVmYIxrICKGrbRyKkqsWq5kzKvBhgIAG6JkcJMgNckTZj/2b+G2iRUvHeeZKGPTsdcC8K1LTnKQgXW7OcfWHUqZNZhOlodqPeZvjsZ4kkah/5gd4PKLPa0yzXsoSlqeU+JLhXbDUMr7gKPMc72Bva3IR0Y+0YDXnDSouZMoQK+0Ibgf3XoiQKY/fuN0i59/HnAG9wsF7ePSBlut7EJ1KEOU0eofr9l/6pQJnGfqhhgwGpEbnZ2ClT0OHizAeexOM/7DV9w4Gi2DPheuAIzP7/eUIPOxIOx8bfyuwtYZiw0YbHmGcwLU1GsDRxqCPJ/0IQ9u93h+oZ9wPdCN6uhuQrUyg5imKmqORdwGtbtdtdFJn1nld4L/ayNmZOzz9kr87JJ+3N4zaG1+Os0kV8r4XQF8G3mYuxddqSAJQ5QRGNNlKH6RimVQ1AlCYxe4j4rBzSECnrM2igyAybtqTJiNuC9hbHcfAY1TI0LrZWevZAEI0SvkJ0SZkcNH0waou6mur2tAoawnhjtTQ8zYH0KjK7txmSleBraRwVG8VtWlj1xnNXQXG8G0asn0zckaquwuP+a04YrSxkRDYpIzJVNEJp5qQu8+EaXSe17/Qz7Yg5jGpMYiMzC9EY8wzG05qtrOKVXTqfQKdjdmaKoJ2BeYdpI2YLNP/I5//NrcDtbKZ1CE2hmYb5UMyvjb1xgzXlECQB7FIb30iV1CsFBCHPXYFiX/nKBNWeJMiD21RCXt+0B3t6Yoy66HHd/Da0rkz1C7dpbYhSUtiurYe8KZTHYJZZYwl2rKz6+citoYtmrt23hA3uxtxXti1p88gFd5hsU0Y7QNde5threV/j2rQJKBpR3ommKc2mhyKT4ziVONmbSFH34Tt3akYg7w4pPJH7R1JK+ko0vp6PR0+VYP7Gs0trQBYcTyx5Ij9CdLLGdbaGdlPB9FWfbA6l87YhgJkkzR3V/bj0riJJ6yt77tl++Uz2UmaiFQ+dYt06sM7TNCsts9vrzDQ3Z76+PRVEmGODAmlZCxYPjMlI0KXc7FxB55rCOVu+wfod2FwvWCVBzTnc60Bkp0UnLDJchnKLqzVaCOEXVjRI96YrOTiqK7O4KV3TsBxC08s6RTboIOmxrt4nPsoHkHJudNY5Gq31xbUFGoiB661wEZ44/obhvT18fcRd2s+ASXim061aXqmDaCB1V8+05l5ZyPWgjh2l2Hibnz7S2heQ/2Rg8eqWhhXrm5S2KX7XqvRbel8Rdnylfm49RhCP60I2MNJNmv8y/ts3x7zxge/6ix/H9ViF/R0dWJ5rntSWVHiQ+1bwl2VEg8dSYdPosWPdBKykFa3Y+HThrXpVmybZBaeJ2lPrBT1g8fHS6vWbk/1vdzhRmi2JF77XNyHFgmlc5+09Tobk6fCr9pLl5Lfzd1PdfZZ5V+wFTbQ4eu9zYqTUTets/twY/ByfnsUC+ubFpLlzt2QnSGr8emqWW03BhGQMwdfFJk0TDKuvXzO0Fj2w076Kvo8U152Eg1bXRdkMKLy86F3kdI1eRdN7d8EVJaeBvcrPsuixeInMaUaWWu/hcDhSLVvm82xFW6qFIMR/njW5LMGEMyv0mtNBpc9WVapCu/6qam5FiyzEvgVrvBtYNir2P4RC8btv6a0lPy6GGaN2s3mM7n7Y08bMrZHSP+Q+FTPA5lq4AWv8wQOm9qB+WW8La1VNQe44MQLp6+6v5lii3cnMwxmakIs/xG5/Cpj3XsxroO92U5OkLmtUZhlDF0tUz0fgJVvkX7PuimftQyt/5t8QgXQHmeZFzhOSGpEXeM9vckFftwWsbavixOl9XPDSV0XDiN7kbgxIfP/Nd8hY3yd8+jXOqp50Q4oMSzhv8GNSG5nleGIQNWxkUNW2w5mUlPegXsLOyLgUb2J+Et3runhefeJeSqXmpJcKf8NV2rqLrZb3OaNsHToW7TkGy4cnnNukKoOLTcoyx5rhxvlNbwYBHW6d+tzPdFIqruARmWV4/Le6OvtHXM/qs1nONCYIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgiIPwfzkxmCraJ5KAAAAAAElFTkSuQmCC" group-title="TV Entretenimento", OFF HD¹
+http://milka99.xyz:80/992847846383/386187307056/6863
+#EXTINF: -1 tvg-id="Viva.br" tvg-name="VIVA HD¹" tvg-logo="http://go555.xyz:80/images/d2dbaa1ad9992509892013faf142c225.png" group-title="TV Entretenimento", VIVA HD¹
+http://milka99.xyz:80/992847846383/386187307056/6681
+#EXTINF: -1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://go555.xyz:80/images/e1eb02c682902e1556137efc0647ca4f.png" group-title="TV Entretenimento", ANIMAL PLANET HD¹
+http://milka99.xyz:80/992847846383/386187307056/6880
+#EXTINF: -1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://go555.xyz:80/images/58c354bad2d6776e4d9ab3196019712f.png" group-title="TV Entretenimento", DISCOVERY CHANNEL HD¹
+http://milka99.xyz:80/992847846383/386187307056/28522
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://go555.xyz:80/images/1dfd57d199b2394a8f610bbc4f44b5cc.png" group-title="TV Entretenimento", DISCOVERY SCIENCE HD¹
+http://milka99.xyz:80/992847846383/386187307056/6842
+#EXTINF: -1 tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="https://images2.imgbox.com/ce/2a/q11PMiIm_o.png" group-title="TV Entretenimento", DISCOVERY THEATER HD¹
+http://milka99.xyz:80/992847846383/386187307056/28532
+#EXTINF: -1 tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://go555.xyz:80/images/03443a8a2b6fba1a691e7110776f526e.png" group-title="TV Entretenimento", DISCOVERY TURBO HD¹
+http://milka99.xyz:80/992847846383/386187307056/28537
+#EXTINF: -1 tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://go555.xyz:80/images/e59d7cfd16719738261d8214ca72fb15.png" group-title="TV Entretenimento", DISCOVERY WORLD HD¹
+http://milka99.xyz:80/992847846383/386187307056/28540
+#EXTINF: -1 tvg-id="HistoryChannel.br" tvg-name="HISTORY HD¹" tvg-logo="http://go555.xyz:80/images/6fc35d7aa7fc2cb9b8d1b1fe877838c6.png" group-title="TV Entretenimento", HISTORY HD¹
+http://milka99.xyz:80/992847846383/386187307056/28692
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="HISTORY 2 HD¹" tvg-logo="https://images2.imgbox.com/cf/a0/v7Zqjz4r_o.png" group-title="TV Entretenimento", HISTORY 2 HD¹
+http://milka99.xyz:80/992847846383/386187307056/28667
+#EXTINF: -1 tvg-id="HGTV.br" tvg-name="HGTV HD¹" tvg-logo="http://go555.xyz:80/images/e741dccd7bc4b1a793e6ff9f13d7e110.png" group-title="TV Entretenimento", HGTV HD¹
+http://milka99.xyz:80/992847846383/386187307056/6848
+#EXTINF: -1 tvg-id="InvestigacaoDiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="http://go555.xyz:80/images/54b039762b0fa8fa1a376fda540a1f71.png" group-title="TV Entretenimento", ID - INVESTIGAÇÃO DISCOVERY HD¹
+http://milka99.xyz:80/992847846383/386187307056/28694
+#EXTINF: -1 tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD¹" tvg-logo="http://go555.xyz:80/images/1f9367e033389dad475d69d75e30518f.png" group-title="TV Entretenimento", NATIONAL GEOGRAPHIC HD¹
+http://milka99.xyz:80/992847846383/386187307056/28708
+#EXTINF: -1 tvg-name="Velozes & Furiosos 10 (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="Filmes VOD", Velozes & Furiosos 10 (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/91803.mkv
+#EXTINF: -1 tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes VOD", A Bolha (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62982.mkv
+#EXTINF: -1 tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes VOD", A Era do Gelo: As Aventuras de Buck (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/59920.mkv
+#EXTINF: -1 tvg-name="A Vida Depois (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg" group-title="Filmes VOD", A Vida Depois (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/59922.mkv
+#EXTINF: -1 tvg-name="Ainda Estou Aqui (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg" group-title="Filmes VOD", Ainda Estou Aqui (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64098.mkv
+#EXTINF: -1 tvg-name="Apollo 10 e Meio: Aventura na Era Espacial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg" group-title="Filmes VOD", Apollo 10 e Meio: Aventura na Era Espacial (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62983.mkv
+#EXTINF: -1 tvg-name="Até a Próxima Vez (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg" group-title="Filmes VOD", Até a Próxima Vez (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62618.mkv
+#EXTINF: -1 tvg-name="Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg" group-title="Filmes VOD", Batman (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64133.mkv
+#EXTINF: -1 tvg-name="Caranguejo Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw644BbNIxSGRqjwAC50uskDBHg.jpg" group-title="Filmes VOD", Caranguejo Negro (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62619.mkv
+#EXTINF: -1 tvg-name="Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhY813zHKJStgUwl9kfBA3WDDPS.jpg" group-title="Filmes VOD", Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/54596.mkv
+#EXTINF: -1 tvg-name="Contra o Gelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg" group-title="Filmes VOD", Contra o Gelo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61929.mkv
+#EXTINF: -1 tvg-name="De Volta ao Espaço (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uINzecMbqXMnWNa6RPThxPUct7f.jpg" group-title="Filmes VOD", De Volta ao Espaço (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64099.mkv
+#EXTINF: -1 tvg-name="Filhos do Privilégio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP7ymez7tYWs2I5rILY5Ba2npjA.jpg" group-title="Filmes VOD", Filhos do Privilégio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61683.mkv
+#EXTINF: -1 tvg-name="Golpes de Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbSz0ygA92OpwiYDTBVFA8Cf4Aw.jpg" group-title="Filmes VOD", Golpes de Vingança (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61699.mkv
+#EXTINF: -1 tvg-name="Granizo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="Filmes VOD", Granizo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62978.mkv
+#EXTINF: -1 tvg-name="Hotel Transilvânia: Transformonstrão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg" group-title="Filmes VOD", Hotel Transilvânia: Transformonstrão (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/58875.mkv
+#EXTINF: -1 tvg-name="Jackass para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg" group-title="Filmes VOD", Jackass para Sempre (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62620.mkv
+#EXTINF: -1 tvg-name="Kimi: Alguém Está Escutando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DUNRzBjRKE1pvl2jiiooDLafKf.jpg" group-title="Filmes VOD", Kimi: Alguém Está Escutando (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61679.mkv
+#EXTINF: -1 tvg-name="Madea: O Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38QFDeoEk2s0tyZIhrydAS9Mvib.jpg" group-title="Filmes VOD", Madea: O Retorno (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61882.mkv
+#EXTINF: -1 tvg-name="Metal Lords (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r97txZRmBb75SGsIAWqmplWJnO3.jpg" group-title="Filmes VOD", Metal Lords (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64101.mkv
+#EXTINF: -1 tvg-name="Moonfall: Ameaça Lunar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ACl5NQBHeEvypdVlaaE868bwFs.jpg" group-title="Filmes VOD", Moonfall: Ameaça Lunar (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64194.mkv
+#EXTINF: -1 tvg-name="Morte no Nilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg" group-title="Filmes VOD", Morte no Nilo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62881.mkv
+#EXTINF: -1 tvg-name="Nossos Sonhos de Marte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pENW055usqNIzYB7YM0R61qFPMu.jpg" group-title="Filmes VOD", Nossos Sonhos de Marte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62979.mkv
+#EXTINF: -1 tvg-name="O Golpista do Tinder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45hoa0hHxq97PLnwaXEDphZzX69.jpg" group-title="Filmes VOD", O Golpista do Tinder (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62127.mkv
+#EXTINF: -1 tvg-name="O Massacre da Serra Elétrica: O Retorno de Leatherface (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YMiQNAHpfm4sx8f5dL5zKWSFdc.jpg" group-title="Filmes VOD", O Massacre da Serra Elétrica: O Retorno de Leatherface (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61702.mkv
+#EXTINF: -1 tvg-name="O Projeto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg" group-title="Filmes VOD", O Projeto Adam (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62130.mkv
+#EXTINF: -1 tvg-name="Os Piratas: Em Busca do Tesouro Perdido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TxDi9DhUIo23eZftFQPk86ojtN.jpg" group-title="Filmes VOD", Os Piratas: Em Busca do Tesouro Perdido (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62128.mkv
+#EXTINF: -1 tvg-name="Pânico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg" group-title="Filmes VOD", Pânico (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61879.mkv
+#EXTINF: -1 tvg-name="Ray Donovan - O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="Filmes VOD", Ray Donovan - O Filme (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/58876.mkv
+#EXTINF: -1 tvg-name="Sexo, Pudor e Lágrimas 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJZnjfdxo2T3Q3lFLnwpDLJrTwj.jpg" group-title="Filmes VOD", Pudor e Lágrimas 2 (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61663.mkv
+#EXTINF: -1 tvg-name="Sorte de Quem? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg" group-title="Filmes VOD", Sorte de Quem? (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62703.mkv
+#EXTINF: -1 tvg-name="Time do Coração (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3FKclpL2p5JsW5U70boHtNhZfr.jpg" group-title="Filmes VOD", Time do Coração (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/59923.mkv
+#EXTINF: -1 tvg-name="TQM (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg" group-title="Filmes VOD", TQM (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61703.mkv
+#EXTINF: -1 tvg-name="Um Dia Difícil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bktIW44oeurTptHLdkj7ayc4zbH.jpg" group-title="Filmes VOD", Um Dia Difícil (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/61880.mkv
+#EXTINF: -1 tvg-name="Whindersson Nunes: É de Mim Mesmo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg" group-title="Filmes VOD", Whindersson Nunes: É de Mim Mesmo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62266.mkv
+#EXTINF: -1 tvg-name="Yaksha: Operação Implacável (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg" group-title="Filmes VOD", Yaksha: Operação Implacável (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64102.mkv
+#EXTINF: -1 tvg-name="Águas Profundas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGhSy2ao59xJDbCXyABofNhsV3o.jpg" group-title="Filmes VOD", Águas Profundas (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/62846.mkv
+#EXTINF: -1 tvg-name="Casa Gucci (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxrVdr5x5FxOtbqS14UovcswFby.jpg" group-title="Filmes VOD", Casa Gucci (2021)
+http://milka99.xyz:80/movie/992847846383/386187307056/61668.mkv
+#EXTINF: -1 tvg-name="King's Man: A Origem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg" group-title="Filmes VOD", King's Man: A Origem (2021)
+http://milka99.xyz:80/movie/992847846383/386187307056/61694.mkv
+#EXTINF: -1 tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes VOD", 365 Dias: Hoje (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64222.mkv
+#EXTINF: -1 tvg-name="Ambulância: Um Dia de Crime (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg" group-title="Filmes VOD", Ambulância: Um Dia de Crime (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64223.mkv
+#EXTINF: -1 tvg-name="Escolha ou Morra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3zQhtFn8EzHgdPXoDPAtcGQnSf.jpg" group-title="Filmes VOD", Escolha ou Morra (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64224.mkv
+#EXTINF: -1 tvg-name="Silverton: Cerco Fechado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp2GAIoW9czkSlyZHlqii9Bc6i6.jpg" group-title="Filmes VOD", Silverton: Cerco Fechado (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64226.mkv
+#EXTINF: -1 tvg-name="Uncharted: Fora do Mapa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soD18uucENplI81kUErvMzdb5Lm.jpg" group-title="Filmes VOD", Uncharted: Fora do Mapa (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64231.mkv
+#EXTINF: -1 tvg-name="Contrato Perigoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg" group-title="Filmes VOD", Contrato Perigoso (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64402.mkv
+#EXTINF: -1 tvg-name="Sonic 2: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg" group-title="Filmes VOD", Sonic 2: O Filme (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64417.mkv
+#EXTINF: -1 tvg-name="O Soldado que Não Existiu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twAoW3HSu0RpBLSwCsx2eY1fnMf.jpg" group-title="Filmes VOD", O Soldado que Não Existiu (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64421.mkv
+#EXTINF: -1 tvg-name="De Volta ao Baile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg" group-title="Filmes VOD", De Volta ao Baile (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64422.mkv
+#EXTINF: -1 tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes VOD", A Caminho do Verão (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64427.mkv
+#EXTINF: -1 tvg-name="O Homem do Norte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="Filmes VOD", O Homem do Norte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64428.mkv
+#EXTINF: -1 tvg-name="Os Opostos Sempre Se Atraem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1KfmIKXZb3zXYWFKWt31G3w8DI.jpg" group-title="Filmes VOD", Os Opostos Sempre Se Atraem (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64429.mkv
+#EXTINF: -1 tvg-name="Os Caras Malvados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg" group-title="Filmes VOD", Os Caras Malvados (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64434.mkv
+#EXTINF: -1 tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg" group-title="Filmes VOD", Morbius (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64435.mkv
+#EXTINF: -1 tvg-name="Animais Fantásticos: Os Segredos de Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg" group-title="Filmes VOD", Animais Fantásticos: Os Segredos de Dumbledore (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64439.mkv
+#EXTINF: -1 tvg-name="Vai Dar Nada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg" group-title="Filmes VOD", Vai Dar Nada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64440.mkv
+#EXTINF: -1 tvg-name="Interceptor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" group-title="Filmes VOD", Interceptor (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64528.mkv
+#EXTINF: -1 tvg-name="Luta Pela Fé: A História do Padre Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cz8zbePAot9kRAlABXdlNfVv6CL.jpg" group-title="Filmes VOD", Luta Pela Fé: A História do Padre Stu (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64530.mkv
+#EXTINF: -1 tvg-name="O Peso do Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KahLgGArTECtUJWN9ACGR6l1S.jpg" group-title="Filmes VOD", O Peso do Talento (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64531.mkv
+#EXTINF: -1 tvg-name="Agente das Sombras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w12S7LKkabx7pddQzsR3PY30m.jpg" group-title="Filmes VOD", Agente das Sombras (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64532.mkv
+#EXTINF: -1 tvg-name="Tico e Teco: Defensores da Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOYRRVe9jhlwU8hAZ53Kg0vhIH4.jpg" group-title="Filmes VOD", Tico e Teco: Defensores da Lei (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64534.mkv
+#EXTINF: -1 tvg-name="Coração de Fogo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBYfhuIOld8UafUF5rDScxroLit.jpg" group-title="Filmes VOD", Coração de Fogo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64535.mkv
+#EXTINF: -1 tvg-name="Tudo em Todo o Lugar ao Mesmo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCvQFLywQLuolTWjRJPRfWWbr1C.jpg" group-title="Filmes VOD", Tudo em Todo o Lugar ao Mesmo Tempo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64536.mkv
+#EXTINF: -1 tvg-name="Passado Violento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cxFO7AlQOotgA45nuuej2DMyiw.jpg" group-title="Filmes VOD", Passado Violento (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64539.mkv
+#EXTINF: -1 tvg-name="Casal de Fachada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg" group-title="Filmes VOD", Casal de Fachada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64540.mkv
+#EXTINF: -1 tvg-name="Um Jantar Entre Espiões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfHTsg7YpUd7YkLSXEeTKjeg7BE.jpg" group-title="Filmes VOD", Um Jantar Entre Espiões (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64542.mkv
+#EXTINF: -1 tvg-name="Arremessando Alto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg" group-title="Filmes VOD", Arremessando Alto (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64544.mkv
+#EXTINF: -1 tvg-name="Cidade Perdida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsX9gj7t56ZlMYKNYccskeW5adT.jpg" group-title="Filmes VOD", Cidade Perdida (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64546.mkv
+#EXTINF: -1 tvg-name="Red: Crescer é Uma Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg" group-title="Filmes VOD", Red: Crescer é Uma Fera (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64547.mkv
+#EXTINF: -1 tvg-name="Doutor Estranho no Multiverso da Loucura (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg" group-title="Filmes VOD", Doutor Estranho no Multiverso da Loucura (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64710.mkv
+#EXTINF: -1 tvg-name="Ao Infinito e Além: Buzz e sua Jornada para ser Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvlULW0N25e7jVeGyYMTWrGWNzq.jpg" group-title="Filmes VOD", Ao Infinito e Além: Buzz e sua Jornada para ser Lightyear (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64849.mkv
+#EXTINF: -1 tvg-name="Centauro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOx97MJOxEoR38aoya3lopyrlYC.jpg" group-title="Filmes VOD", Centauro (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64850.mkv
+#EXTINF: -1 tvg-name="Dog: A Aventura de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gln0b5rezteLuyv9kO1q0h0vqnA.jpg" group-title="Filmes VOD", Dog: A Aventura de uma Vida (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64851.mkv
+#EXTINF: -1 tvg-name="Exorcismo Sagrado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y181pPW5P6xhcEbAVTv01bVJov.jpg" group-title="Filmes VOD", Exorcismo Sagrado (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64852.mkv
+#EXTINF: -1 tvg-name="Jerry & Marge Tiram a Sorte Grande (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg" group-title="Filmes VOD", Jerry & Marge Tiram a Sorte Grande (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64853.mkv
+#EXTINF: -1 tvg-name="O Pai da Noiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6605qfGpSGqNcUNY0nUgeE5z01v.jpg" group-title="Filmes VOD", O Pai da Noiva (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64854.mkv
+#EXTINF: -1 tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" group-title="Filmes VOD", Spiderhead (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/64855.mkv
+#EXTINF: -1 tvg-name="Assassino Sem Rastro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="Filmes VOD", Assassino Sem Rastro (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/66787.mkv
+#EXTINF: -1 tvg-name="Jurassic World: Domínio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg" group-title="Filmes VOD", Jurassic World: Domínio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/66788.mkv
+#EXTINF: -1 tvg-name="O Homem de Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg" group-title="Filmes VOD", O Homem de Toronto (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/66789.mkv
+#EXTINF: -1 tvg-name="Dois Amigos e uma Ameaça Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpQ2y0DBrWEDPtDsyaNs9zuKzdQ.jpg" group-title="Filmes VOD", Dois Amigos e uma Ameaça Alienígena (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/66941.mkv
+#EXTINF: -1 tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes VOD", A Princesa (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/66942.mkv
+#EXTINF: -1 tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes VOD", A Fera do Mar (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67506.mkv
+#EXTINF: -1 tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/js8FIFJ2xyK7pcUQ0pvuX3mJldC.jpg" group-title="Filmes VOD", Lightyear (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67637.mkv
+#EXTINF: -1 tvg-name="Não Me Diga Adeus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg" group-title="Filmes VOD", Não Me Diga Adeus (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67638.mkv
+#EXTINF: -1 tvg-name="O Telefone Preto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg" group-title="Filmes VOD", O Telefone Preto (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67639.mkv
+#EXTINF: -1 tvg-name="Agente Oculto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Filmes VOD", Agente Oculto (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67819.mkv
+#EXTINF: -1 tvg-name="Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeJHkkrDvbXPB25NghNbv5kUBVi.jpg" group-title="Filmes VOD", Sorte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67943.mkv
+#EXTINF: -1 tvg-name="O Predador: A Caçada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg" group-title="Filmes VOD", O Predador: A Caçada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/67944.mkv
+#EXTINF: -1 tvg-name="Carter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPKmoSTrPjvSjvKHvnMm1qs0Upa.jpg" group-title="Filmes VOD", Carter (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68004.mkv
+#EXTINF: -1 tvg-name="Minions 2: A Origem de Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzFAboMUGJKoPQEtlxfxbbYsSWa.jpg" group-title="Filmes VOD", Minions 2: A Origem de Gru (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68005.mkv
+#EXTINF: -1 tvg-name="Elvis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmMyGIBsvUrfDNV8bWVEN8MidbG.jpg" group-title="Filmes VOD", Elvis (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68031.mkv
+#EXTINF: -1 tvg-name="O Despertar das Tartarugas Ninja: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg" group-title="Filmes VOD", O Despertar das Tartarugas Ninja: O Filme (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68032.mkv
+#EXTINF: -1 tvg-name="Código: Imperador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HVV4JR2rT01S9NDZie4YWBLUD.jpg" group-title="Filmes VOD", Código: Imperador (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68426.mkv
+#EXTINF: -1 tvg-name="Dupla Jornada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg" group-title="Filmes VOD", Dupla Jornada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68427.mkv
+#EXTINF: -1 tvg-name="O Bom Vizinho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omFn8Qkl5EPhT9h96Yp6EYNVBeK.jpg" group-title="Filmes VOD", O Bom Vizinho (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68446.mkv
+#EXTINF: -1 tvg-name="Treze Vidas: O Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sO4gjzLhxndxLtMrohGV2DD2Rw.jpg" group-title="Filmes VOD", Treze Vidas: O Resgate (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/68489.mkv
+#EXTINF: -1 tvg-name="Trem-Bala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOIxfCzjsV4temEPhjTVlVZsB6s.jpg" group-title="Filmes VOD", Trem-Bala (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70532.mkv
+#EXTINF: -1 tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg" group-title="Filmes VOD", Top Gun: Maverick (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70582.mkv
+#EXTINF: -1 tvg-name="Órfã 2: A Origem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg" group-title="Filmes VOD", Órfã 2: A Origem (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70936.mkv
+#EXTINF: -1 tvg-name="DC Liga dos Superpets (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYIbivi986h4M8ZNQiwKSzIF8KJ.jpg" group-title="Filmes VOD", DC Liga dos Superpets (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70937.mkv
+#EXTINF: -1 tvg-name="Fullmetal Alchemist: A Vingança de Scar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsgF3IyWmNOnYqNtweaqySWpYTz.jpg" group-title="Filmes VOD", Fullmetal Alchemist: A Vingança de Scar (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70938.mkv
+#EXTINF: -1 tvg-name="Samaritano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg" group-title="Filmes VOD", Samaritano (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70939.mkv
+#EXTINF: -1 tvg-name="Não! Não Olhe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg" group-title="Filmes VOD", Não! Não Olhe (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/70952.mkv
+#EXTINF: -1 tvg-name="Amor em Verona (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg" group-title="Filmes VOD", Amor em Verona (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71086.mkv
+#EXTINF: -1 tvg-name="Vizinhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT7388wlquvpGN3LPxVeD849QAI.jpg" group-title="Filmes VOD", Vizinhos (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71088.mkv
+#EXTINF: -1 tvg-name="UNTOLD: Corrupção no Basquete (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euyNtF9Yau4bieJ65BuHdHZOoAd.jpg" group-title="Filmes VOD", UNTOLD: Corrupção no Basquete (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71101.mkv
+#EXTINF: -1 tvg-name="Thor: Amor e Trovão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg" group-title="Filmes VOD", Thor: Amor e Trovão (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71222.mkv
+#EXTINF: -1 tvg-name="Fim da Estrada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="Filmes VOD", Fim da Estrada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71546.mkv
+#EXTINF: -1 tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywXcLxwAir7kj7mxDzxjOXDvl5u.jpg" group-title="Filmes VOD", A Fera (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71550.mkv
+#EXTINF: -1 tvg-name="O Livro Do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rql0TINECt8CmIUnmKfNZk4YB7w.jpg" group-title="Filmes VOD", O Livro Do Amor (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71551.mkv
+#EXTINF: -1 tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="Filmes VOD", Broad Peak (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71552.mkv
+#EXTINF: -1 tvg-name="Obi-Wan Kenobi: O Retorno do Jedi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg" group-title="Filmes VOD", Obi-Wan Kenobi: O Retorno do Jedi (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71558.mkv
+#EXTINF: -1 tvg-name="Já Fui Famoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvqHMh0DBVRMmfeRxTPlk5Fcu8f.jpg" group-title="Filmes VOD", Já Fui Famoso (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71863.mkv
+#EXTINF: -1 tvg-name="Justiceiras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg" group-title="Filmes VOD", Justiceiras (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71878.mkv
+#EXTINF: -1 tvg-name="O Alfaiate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg" group-title="Filmes VOD", O Alfaiate (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71880.mkv
+#EXTINF: -1 tvg-name="Reflexões no Espelho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg" group-title="Filmes VOD", Reflexões no Espelho (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71887.mkv
+#EXTINF: -1 tvg-name="Vingança e Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg" group-title="Filmes VOD", Vingança e Redenção (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/71901.mkv
+#EXTINF: -1 tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="Filmes VOD", Lou (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72049.mkv
+#EXTINF: -1 tvg-name="O Telefone do Sr. Harrigan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JptBMGTikUK4CxJpG9cNTYAGjV.jpg" group-title="Filmes VOD", O Telefone do Sr. Harrigan (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72050.mkv
+#EXTINF: -1 tvg-name="Uma Garota de Muita Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg" group-title="Filmes VOD", Uma Garota de Muita Sorte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72051.mkv
+#EXTINF: -1 tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dmnwgKGkuxBgvDhOHaqlZtgrv9.jpg" group-title="Filmes VOD", Blonde (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72062.mkv
+#EXTINF: -1 tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="Filmes VOD", A Maldição de Bridge Hollow (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72063.mkv
+#EXTINF: -1 tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes VOD", A Escola do Bem e do Mal (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72201.mkv
+#EXTINF: -1 tvg-name="O Desconhecido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg" group-title="Filmes VOD", O Desconhecido (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72202.mkv
+#EXTINF: -1 tvg-name="Halloween Ends (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD2YiqLp5vXq7l2V3iYC7usWYXD.jpg" group-title="Filmes VOD", Halloween Ends (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72203.mkv
+#EXTINF: -1 tvg-name="Não Se Preocupe, Querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="Filmes VOD", Querida (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72387.mkv
+#EXTINF: -1 tvg-name="Noites Brutais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg" group-title="Filmes VOD", Noites Brutais (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72389.mkv
+#EXTINF: -1 tvg-name="O Enfermeiro da Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg" group-title="Filmes VOD", O Enfermeiro da Noite (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72390.mkv
+#EXTINF: -1 tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="Filmes VOD", Enola Holmes 2 (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72406.mkv
+#EXTINF: -1 tvg-name="Nada de Novo no Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg" group-title="Filmes VOD", Nada de Novo no Front (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72407.mkv
+#EXTINF: -1 tvg-name="Pearl: Uma História de Origem 'X' (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjtefF98mmu8louiPikoLbW99TI.jpg" group-title="Filmes VOD", Pearl: Uma História de Origem 'X' (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72537.mkv
+#EXTINF: -1 tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="Filmes VOD", Adão Negro (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72600.mkv
+#EXTINF: -1 tvg-name="Bala Perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg" group-title="Filmes VOD", Bala Perdida 2 (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72601.mkv
+#EXTINF: -1 tvg-name="Sorria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDTXsc8uzJuvPLvfFBXTf9rYyTf.jpg" group-title="Filmes VOD", Sorria (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72609.mkv
+#EXTINF: -1 tvg-name="Terra dos Sonhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg" group-title="Filmes VOD", Terra dos Sonhos (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72610.mkv
+#EXTINF: -1 tvg-name="Desencantada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg" group-title="Filmes VOD", Desencantada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72629.mkv
+#EXTINF: -1 tvg-name="Esquadrão Secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="Filmes VOD", Esquadrão Secreto (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72630.mkv
+#EXTINF: -1 tvg-name="Ingresso Para o Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="Filmes VOD", Ingresso Para o Paraíso (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72631.mkv
+#EXTINF: -1 tvg-name="Pinóquio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg" group-title="Filmes VOD", Pinóquio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72639.mkv
+#EXTINF: -1 tvg-name="Um Lugar Bem Longe Daqui (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXvn2D7a9nBwTdUSNj97rUwqMmx.jpg" group-title="Filmes VOD", Um Lugar Bem Longe Daqui (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72653.mkv
+#EXTINF: -1 tvg-name="X: A Marca da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg" group-title="Filmes VOD", X: A Marca da Morte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72654.mkv
+#EXTINF: -1 tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="Filmes VOD", Guardiões da Galáxia: Especial de Festas (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72660.mkv
+#EXTINF: -1 tvg-name="D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orXhDQCtC086ccqUdkwOwZqN0kQ.jpg" group-title="Filmes VOD", D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72697.mkv
+#EXTINF: -1 tvg-name="O Troll da Montanha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg" group-title="Filmes VOD", O Troll da Montanha (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72715.mkv
+#EXTINF: -1 tvg-name="Era Uma Vez um Gênio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg" group-title="Filmes VOD", Era Uma Vez um Gênio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72851.mkv
+#EXTINF: -1 tvg-name="Exército do Amanhã (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg" group-title="Filmes VOD", Exército do Amanhã (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72852.mkv
+#EXTINF: -1 tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTXXXMwZ30LVf51nJvh2QGKPIY6.jpg" group-title="Filmes VOD", A Mulher Rei (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72880.mkv
+#EXTINF: -1 tvg-name="TÁR (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="Filmes VOD", TÁR (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72881.mkv
+#EXTINF: -1 tvg-name="Triângulo da Tristeza (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLQKn4XQlyWdrxM4GsjUGzoD6pd.jpg" group-title="Filmes VOD", Triângulo da Tristeza (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72882.mkv
+#EXTINF: -1 tvg-name="Bem-Vinda a Quixeramobim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vdr6W7bs8LJMOGgwIJiAQUfG3Q.jpg" group-title="Filmes VOD", Bem-Vinda a Quixeramobim (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72884.mkv
+#EXTINF: -1 tvg-name="Ele Acredita em Papai Noel! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMZEycAuLPQ2dBweIzDqUsiS8lp.jpg" group-title="Filmes VOD", Ele Acredita em Papai Noel! (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72886.mkv
+#EXTINF: -1 tvg-name="Emancipation - Uma História de Liberdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg" group-title="Filmes VOD", Emancipation - Uma História de Liberdade (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72887.mkv
+#EXTINF: -1 tvg-name="Boa Sorte, Leo Grande (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBDDdt8uRHu6nn6p94mZQ885q3F.jpg" group-title="Filmes VOD", Leo Grande (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72888.mkv
+#EXTINF: -1 tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="Filmes VOD", Amsterdam (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72890.mkv
+#EXTINF: -1 tvg-name="Até o Limite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBynixF4Yhelp6Pe6alO6GgBzWT.jpg" group-title="Filmes VOD", Até o Limite (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72891.mkv
+#EXTINF: -1 tvg-name="Os 4 Malfeitores (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8585nsrmZAW41JkhlhNTQZpfM0.jpg" group-title="Filmes VOD", Os 4 Malfeitores (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72899.mkv
+#EXTINF: -1 tvg-name="O Quebra-Nozes Versão Hip Hop (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUW6lEKMwj1ck78d5PvkyW5BYD7.jpg" group-title="Filmes VOD", O Quebra-Nozes Versão Hip Hop (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72900.mkv
+#EXTINF: -1 tvg-name="A Queda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNu4uqqCsLaEiEBEkkYIQmPvCTL.jpg" group-title="Filmes VOD", A Queda (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72956.mkv
+#EXTINF: -1 tvg-name="Hellraiser: Renascido do Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg" group-title="Filmes VOD", Hellraiser: Renascido do Inferno (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/72959.mkv
+#EXTINF: -1 tvg-name="Murderville: Quem Matou o Papai Noel? (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiXqy4O7lB9uennrzOHxMSmwgQM.jpg" group-title="Filmes VOD", Murderville: Quem Matou o Papai Noel? (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72971.mkv
+#EXTINF: -1 tvg-name="Dragon Ball Super: Super Hero (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FiqBRypTDyHzqcxdbpPb3ddFep.jpg" group-title="Filmes VOD", Dragon Ball Super: Super Hero (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72975.mkv
+#EXTINF: -1 tvg-name="A Magical Christmas Village (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHgCKRqpmUiClYKjF00dX2n1c2h.jpg" group-title="Filmes VOD", A Magical Christmas Village (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/72978.mkv
+#EXTINF: -1 tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes VOD", A Luz do Demônio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73436.mkv
+#EXTINF: -1 tvg-name="O Matador: Missão Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg" group-title="Filmes VOD", O Matador: Missão Resgate (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73438.mkv
+#EXTINF: -1 tvg-name="Filho da Mãe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8ZbaGCahlXwri66rPHjgw54jo1.jpg" group-title="Filmes VOD", Filho da Mãe (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73443.mkv
+#EXTINF: -1 tvg-name="RRR: Revolta, Rebelião, Revolução (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvBXVXFR3PeteJFPjOPFj3M1biC.jpg" group-title="Filmes VOD", Revolução (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73444.mkv
+#EXTINF: -1 tvg-name="Os Banshees de Inisherin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg" group-title="Filmes VOD", Os Banshees de Inisherin (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73527.mkv
+#EXTINF: -1 tvg-name="A Babá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="Filmes VOD", A Babá (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73551.mkv
+#EXTINF: -1 tvg-name="Esposa de Aluguel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="Filmes VOD", Esposa de Aluguel (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73552.mkv
+#EXTINF: -1 tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC3O8VIPhLhJOO68XsPruBoirDR.jpg" group-title="Filmes VOD", Abandonada (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73559.mkv
+#EXTINF: -1 tvg-name="Glass Onion: Um Mistério Knives Out (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg" group-title="Filmes VOD", Glass Onion: Um Mistério Knives Out (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73561.mkv
+#EXTINF: -1 tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg" group-title="Filmes VOD", Medieval (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73562.mkv
+#EXTINF: -1 tvg-name="Ruído Branco (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNPuuybpp52aABBy59V5Q78xkLh.jpg" group-title="Filmes VOD", Ruído Branco (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73566.mkv
+#EXTINF: -1 tvg-name="Bob Esponja: O Incrível Resgate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="Filmes VOD", Bob Esponja: O Incrível Resgate (2020)
+http://milka99.xyz:80/movie/992847846383/386187307056/73575.mkv
+#EXTINF: -1 tvg-name="Gente Grande (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg" group-title="Filmes VOD", Gente Grande (2010)
+http://milka99.xyz:80/movie/992847846383/386187307056/73577.mkv
+#EXTINF: -1 tvg-name="the didactor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU0Ayk89wKyrsvC4SyT5Ht8IRM3.jpg" group-title="Filmes VOD", the didactor
+http://milka99.xyz:80/movie/992847846383/386187307056/73578.mkv
+#EXTINF: -1 tvg-name="Boa Viagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w94FteEPPW5QiaYDMDy74NJ9vz.jpg" group-title="Filmes VOD", Boa Viagem (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73658.mkv
+#EXTINF: -1 tvg-name="Que Se Dane o Amor, De Novo! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4qYU8OF2dgpM6Fe7Xj8dJDnvdN.jpg" group-title="Filmes VOD", De Novo! (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/73662.mkv
+#EXTINF: -1 tvg-name="Os Fabelmans (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xId9zoiv5WPQOuxqykUDrlpmrUz.jpg" group-title="Filmes VOD", Os Fabelmans (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/73663.mkv
+#EXTINF: -1 tvg-name="Predestinado: Arigó e o Espírito do Dr. Fritz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SX9NREsXFb28HXNsTFtXFpZ3vk.jpg" group-title="Filmes VOD", Predestinado: Arigó e o Espírito do Dr. Fritz (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/83796.mkv
+#EXTINF: -1 tvg-name="O Menu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg" group-title="Filmes VOD", O Menu (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/83797.mkv
+#EXTINF: -1 tvg-name="As Faces da Verdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPrySz5s1lqmw6DAnNWUMr5142Q.jpg" group-title="Filmes VOD", As Faces da Verdade (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85591.mkv
+#EXTINF: -1 tvg-name="Disque Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK2sx7wBd3bhkdh6S2fsfS0CuCd.jpg" group-title="Filmes VOD", Disque Jane (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85592.mkv
+#EXTINF: -1 tvg-name="Distrito 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXeSqzojUZ4exuCp5Mpo4o308PM.jpg" group-title="Filmes VOD", Distrito 666 (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85593.mkv
+#EXTINF: -1 tvg-name="Matilda: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" group-title="Filmes VOD", Matilda: O Musical (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85595.mkv
+#EXTINF: -1 tvg-name="Sra. Harris Vai a Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RUXwZPgkOXMNlTBCcmYXYrMsNg.jpg" group-title="Filmes VOD", Sra. Harris Vai a Paris (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85596.mkv
+#EXTINF: -1 tvg-name="Os Reis do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4QmLssxhPS9BlUvUQFvyZnv91a.jpg" group-title="Filmes VOD", Os Reis do Mundo (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85597.mkv
+#EXTINF: -1 tvg-name="Tromba Trem: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW6K0GdzEv3faofvAaaZtReS0wi.jpg" group-title="Filmes VOD", Tromba Trem: O Filme (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85598.mkv
+#EXTINF: -1 tvg-name="Uma Pitada de Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg" group-title="Filmes VOD", Uma Pitada de Sorte (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85600.mkv
+#EXTINF: -1 tvg-name="Visita, Presidente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0o8ojRSfyHaweMvje0hTQDY3iO.jpg" group-title="Filmes VOD", Presidente (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85601.mkv
+#EXTINF: -1 tvg-name="Amor de Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg" group-title="Filmes VOD", Amor de Redenção (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/85685.mkv
+#EXTINF: -1 tvg-name="Moloch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg" group-title="Filmes VOD", Moloch (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87370.mkv
+#EXTINF: -1 tvg-name="O Pálido Olho Azul (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x98eB1JokifNYRcgyxyMf4TQbsO.jpg" group-title="Filmes VOD", O Pálido Olho Azul (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87371.mkv
+#EXTINF: -1 tvg-name="O Ataque ao Capitólio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z3dkp3l6TwVDp1cNdQaLGtk0oT.jpg" group-title="Filmes VOD", O Ataque ao Capitólio (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87405.mkv
+#EXTINF: -1 tvg-name="Gato de Botas 2: O Último Pedido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg" group-title="Filmes VOD", Gato de Botas 2: O Último Pedido (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87501.mkv
+#EXTINF: -1 tvg-name="V/H/S/99 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg" group-title="Filmes VOD", V/H/S/99 (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87506.mkv
+#EXTINF: -1 tvg-name="Batman e Superman: Batalha dos Super Filhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="Filmes VOD", Batman e Superman: Batalha dos Super Filhos (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87509.mkv
+#EXTINF: -1 tvg-name="Terrifier 2 (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="Filmes VOD", Terrifier 2 (2022) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/87519.mkv
+#EXTINF: -1 tvg-name="A Távola de Rocha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF66YAKEZmHaSMMjjJpT8lPAQqD.jpg" group-title="Filmes VOD", A Távola de Rocha (2021)
+http://milka99.xyz:80/movie/992847846383/386187307056/87521.mkv
+#EXTINF: -1 tvg-name="Irmãos de Honra (2022)" tvg-logo="http://go555.xyz:80/images/2622a39a42d4445da96286b96996407e.jpg" group-title="Filmes VOD", Irmãos de Honra (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87522.mkv
+#EXTINF: -1 tvg-name="Gaiola Mental (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPYts32AbIpSnjWPxrKLTSzkIM9.jpg" group-title="Filmes VOD", Gaiola Mental (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87523.mkv
+#EXTINF: -1 tvg-name="O Assassino Perfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="Filmes VOD", O Assassino Perfeito (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87524.mkv
+#EXTINF: -1 tvg-name="A Terra de Frente (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mT5fwsYVxY5Unz8q51YjIoVTu6.jpg" group-title="Filmes VOD", A Terra de Frente (2021)
+http://milka99.xyz:80/movie/992847846383/386187307056/87528.mkv
+#EXTINF: -1 tvg-name="Tom & Jerry: Terra do Boneco de Neve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZke9IRWqbrBeliSw8usGmXqFTL.jpg" group-title="Filmes VOD", Tom & Jerry: Terra do Boneco de Neve (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87529.mkv
+#EXTINF: -1 tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg" group-title="Filmes VOD", Pantera Negra: Wakanda para Sempre (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/87917.mkv
+#EXTINF: -1 tvg-name="Casamento Armado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="Filmes VOD", Casamento Armado (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88047.mkv
+#EXTINF: -1 tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEkatvFb6hrebLBAanb25ea26yh.jpg" group-title="Filmes VOD", Jung_E (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88048.mkv
+#EXTINF: -1 tvg-name="Teen Wolf: O Filme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg" group-title="Filmes VOD", Teen Wolf: O Filme (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88052.mkv
+#EXTINF: -1 tvg-name="Transfusão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N9ErU8bpfRRuJQFzDc4FRgdOD4.jpg" group-title="Filmes VOD", Transfusão (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88054.mkv
+#EXTINF: -1 tvg-name="Lâmina Dos 47 Ronins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Filmes VOD", Lâmina Dos 47 Ronins (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88600.mkv
+#EXTINF: -1 tvg-name="Avatar: O Caminho da Água (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Filmes VOD", Avatar: O Caminho da Água (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88638.mkv
+#EXTINF: -1 tvg-name="Destemida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg" group-title="Filmes VOD", Destemida (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88641.mkv
+#EXTINF: -1 tvg-name="Infiesto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg" group-title="Filmes VOD", Infiesto (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88642.mkv
+#EXTINF: -1 tvg-name="Legion of Super-Heroes (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3whQLi8RI7h2h2Si2KTDFJxfEcR.jpg" group-title="Filmes VOD", Legion of Super-Heroes (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/88643.mkv
+#EXTINF: -1 tvg-name="Luccas Neto em: Acampamento de Férias 4: O Desafio Final (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctftbe5zdoNzahZkoEh4YHJNwxN.jpg" group-title="Filmes VOD", Luccas Neto em: Acampamento de Férias 4: O Desafio Final (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88658.mkv
+#EXTINF: -1 tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes VOD", 30 Noites com a Minha Ex (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88689.mkv
+#EXTINF: -1 tvg-name="Uma Festa de Arromba (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" group-title="Filmes VOD", Uma Festa de Arromba (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/88692.mkv
+#EXTINF: -1 tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Filmes VOD", Alerta Máximo (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88694.mkv
+#EXTINF: -1 tvg-name="Corda Bamba: A História de uma Menina Equilibrista (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W2PAIHTiuguY567p1pg8eXlRlP.jpg" group-title="Filmes VOD", Corda Bamba: A História de uma Menina Equilibrista (2013)
+http://milka99.xyz:80/movie/992847846383/386187307056/88712.mkv
+#EXTINF: -1 tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="Filmes VOD", Alguém Que Eu Costumava Conhecer (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88728.mkv
+#EXTINF: -1 tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="Filmes VOD", At Midnight (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88729.mkv
+#EXTINF: -1 tvg-name="Meet Me In Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYmOnstMQgZjTss9SkMFlOWZF1g.jpg" group-title="Filmes VOD", Meet Me In Paris (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88730.mkv
+#EXTINF: -1 tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Filmes VOD", Na Sua Casa ou na Minha? (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88731.mkv
+#EXTINF: -1 tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Filmes VOD", Nicarágua: Liberdade Exilada (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88732.mkv
+#EXTINF: -1 tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Filmes VOD", Querido David (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88733.mkv
+#EXTINF: -1 tvg-name="Vivendo no Limite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAAbMaiVGl6E08NqgoEQxyB7h9M.jpg" group-title="Filmes VOD", Vivendo no Limite (2019)
+http://milka99.xyz:80/movie/992847846383/386187307056/88737.mkv
+#EXTINF: -1 tvg-name="Babilônia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="Filmes VOD", Babilônia (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88774.mkv
+#EXTINF: -1 tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Filmes VOD", Sharper: Uma Vida de Trapaças (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88783.mkv
+#EXTINF: -1 tvg-name="Plano A (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjEvnE8eQb7qrRDQBy927VbfuHD.jpg" group-title="Filmes VOD", Plano A (2021)
+http://milka99.xyz:80/movie/992847846383/386187307056/88788.mkv
+#EXTINF: -1 tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3whQLi8RI7h2h2Si2KTDFJxfEcR.jpg" group-title="Filmes VOD", Legião dos Super-Heróis (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88791.mkv
+#EXTINF: -1 tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Filmes VOD", Mais Cedo Morto do que Casado (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88792.mkv
+#EXTINF: -1 tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Filmes VOD", M3GAN (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/88891.mkv
+#EXTINF: -1 tvg-name="Duro de Atuar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="Filmes VOD", Duro de Atuar (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88905.mkv
+#EXTINF: -1 tvg-name="Batem à Porta (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtLEm7icyupihsdhUYXJdQ7sKFo.jpg" group-title="Filmes VOD", Batem à Porta (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/88918.mkv
+#EXTINF: -1 tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="Filmes VOD", Amor Entre Amigos: O Casamento (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88998.mkv
+#EXTINF: -1 tvg-name="Certas Pessoas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Km62y53mW1eOWSVzmPnWN01vY.jpg" group-title="Filmes VOD", Certas Pessoas (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/88999.mkv
+#EXTINF: -1 tvg-name="Detetive Knight: Independência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg" group-title="Filmes VOD", Detetive Knight: Independência (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89001.mkv
+#EXTINF: -1 tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Filmes VOD", Em Todas as Partes (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89002.mkv
+#EXTINF: -1 tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Filmes VOD", Você Dorme Comigo (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89003.mkv
+#EXTINF: -1 tvg-name="Excluídos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg" group-title="Filmes VOD", Excluídos (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89004.mkv
+#EXTINF: -1 tvg-name="LUPIN III vs. CAT’S EYE (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b85EjAMa40gkSs9wOR9P6nuRZhi.jpg" group-title="Filmes VOD", LUPIN III vs. CAT’S EYE (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89005.mkv
+#EXTINF: -1 tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Filmes VOD", Na Palma da Mão (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89006.mkv
+#EXTINF: -1 tvg-name="Night Train (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKzdwficUcFNisOM5mN3XXXUzA6.jpg" group-title="Filmes VOD", Night Train (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89007.mkv
+#EXTINF: -1 tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" group-title="Filmes VOD", Re/Member (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/89008.mkv
+#EXTINF: -1 tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Filmes VOD", Um Amor para Duas (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89009.mkv
+#EXTINF: -1 tvg-name="Infinity Pool (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="Filmes VOD", Infinity Pool (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89010.mkv
+#EXTINF: -1 tvg-name="Casamento em Família (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ork1OSoMlKwSiM7w3uCk9OJOucw.jpg" group-title="Filmes VOD", Casamento em Família (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89011.mkv
+#EXTINF: -1 tvg-name="Snow Falls (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg" group-title="Filmes VOD", Snow Falls (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89015.mkv
+#EXTINF: -1 tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Filmes VOD", Amor² Outra Vez (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89016.mkv
+#EXTINF: -1 tvg-name="The Locksmith (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg" group-title="Filmes VOD", The Locksmith (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89017.mkv
+#EXTINF: -1 tvg-name="À Maneira Antiga (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="Filmes VOD", À Maneira Antiga (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89018.mkv
+#EXTINF: -1 tvg-name="There's Something Wrong with the Children (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" group-title="Filmes VOD", There's Something Wrong with the Children (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89019.mkv
+#EXTINF: -1 tvg-name="Thunderbolt: Ação Sobre Rodas (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N9Q9VoMa2u2VznNmFs172SHjFN.jpg" group-title="Filmes VOD", Thunderbolt: Ação Sobre Rodas (1995)
+http://milka99.xyz:80/movie/992847846383/386187307056/89020.mkv
+#EXTINF: -1 tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Filmes VOD", Fantasma e CIA (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89021.mkv
+#EXTINF: -1 tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Filmes VOD", Magic Mike: A Última Dança (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89022.mkv
+#EXTINF: -1 tvg-name="Descida ao Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg" group-title="Filmes VOD", Descida ao Inferno (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/89031.mkv
+#EXTINF: -1 tvg-name="Já Era Hora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg" group-title="Filmes VOD", Já Era Hora (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89139.mkv
+#EXTINF: -1 tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Filmes VOD", Luther: O Cair da Noite (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89140.mkv
+#EXTINF: -1 tvg-name="Pornhub: Sexo Bilionário (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg" group-title="Filmes VOD", Pornhub: Sexo Bilionário (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89145.mkv
+#EXTINF: -1 tvg-name="Tangos, Tequilas e Algumas Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3z6H8oOS2y3dQY9dEKkxQiLWPn.jpg" group-title="Filmes VOD", Tequilas e Algumas Mentiras (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89147.mkv
+#EXTINF: -1 tvg-name="Amor nas Ruas de Bursa (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv3eMha77GgPjEnDdoMnCXxuYb3.jpg" group-title="Filmes VOD", Amor nas Ruas de Bursa (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89149.mkv
+#EXTINF: -1 tvg-name="Cocaine Bear-Man (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv3eMha77GgPjEnDdoMnCXxuYb3.jpg" group-title="Filmes VOD", Cocaine Bear-Man (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89156.mkv
+#EXTINF: -1 tvg-name="Consagração (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Filmes VOD", Consagração (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89157.mkv
+#EXTINF: -1 tvg-name="Game of Love (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wcgmtqp0wdPJiCYJfgFyovWI3h.jpg" group-title="Filmes VOD", Game of Love (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89158.mkv
+#EXTINF: -1 tvg-name="Magic Mike: A Última Dança (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Filmes VOD", Magic Mike: A Última Dança (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89160.mkv
+#EXTINF: -1 tvg-name="A Sutil Arte de Ligar o F*da-se (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRXELIL5G2L8SqrpZEEQF6MfwZ.jpg" group-title="Filmes VOD", A Sutil Arte de Ligar o F*da-se (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89189.mkv
+#EXTINF: -1 tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Filmes VOD", 80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89194.mkv
+#EXTINF: -1 tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="Filmes VOD", A Elefanta do Mágico (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89195.mkv
+#EXTINF: -1 tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrATQE8ScQceohwInaMluluNEaf.jpg" group-title="Filmes VOD", Batman: A Perdição Chegou a Gotham (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89196.mkv
+#EXTINF: -1 tvg-name="O Estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="Filmes VOD", O Estrangulador de Boston (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89197.mkv
+#EXTINF: -1 tvg-name="Everest: Procurando Michael (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA1jbrUawNc6SgOOSuze8xOfznu.jpg" group-title="Filmes VOD", Everest: Procurando Michael (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89198.mkv
+#EXTINF: -1 tvg-name="As Múmias e o Anel Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmfGIGm5SzcBynum9roCNSAzoyD.jpg" group-title="Filmes VOD", As Múmias e o Anel Perdido (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89305.mkv
+#EXTINF: -1 tvg-name="Batem à Porta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" group-title="Filmes VOD", Batem à Porta (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89306.mkv
+#EXTINF: -1 tvg-name="Mistério em Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="Filmes VOD", Mistério em Paris (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89307.mkv
+#EXTINF: -1 tvg-name="Fé nas Alturas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg" group-title="Filmes VOD", Fé nas Alturas (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89308.mkv
+#EXTINF: -1 tvg-name="O Urso do Pó Branco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCULfWcKxjzYD2NweXkBdEzeLFC.jpg" group-title="Filmes VOD", O Urso do Pó Branco (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89309.mkv
+#EXTINF: -1 tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="Filmes VOD", Creed III (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89310.mkv
+#EXTINF: -1 tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" group-title="Filmes VOD", 65: Ameaça Pré-Histórica (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89312.mkv
+#EXTINF: -1 tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="Filmes VOD", Tetris (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89313.mkv
+#EXTINF: -1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes VOD", Shazam! Fúria dos Deuses (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89324.mkv
+#EXTINF: -1 tvg-name="Gangues de Lagos (2023) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="Filmes VOD", Gangues de Lagos (2023) LEGENDADO
+http://milka99.xyz:80/movie/992847846383/386187307056/89326.mkv
+#EXTINF: -1 tvg-name="Ah, Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg" group-title="Filmes VOD", Belinda (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89327.mkv
+#EXTINF: -1 tvg-name="Esquema de Risco: Operação Fortune (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg" group-title="Filmes VOD", Esquema de Risco: Operação Fortune (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89328.mkv
+#EXTINF: -1 tvg-name="Till: A Busca por Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogb70EGzxqdbH5p8mmWJ5CEYSp3.jpg" group-title="Filmes VOD", Till: A Busca por Justiça (2022)
+http://milka99.xyz:80/movie/992847846383/386187307056/89353.mkv
+#EXTINF: -1 tvg-name="O Último Reino: Sete Reis Devem Morrer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="Filmes VOD", O Último Reino: Sete Reis Devem Morrer (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89505.mkv
+#EXTINF: -1 tvg-name="Assombrosas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsBuV5Jpgj9W9NQaeXPIn1Pqa4.jpg" group-title="Filmes VOD", Assombrosas (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89566.mkv
+#EXTINF: -1 tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="Filmes VOD", Rainhas em Fuga (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89649.mkv
+#EXTINF: -1 tvg-name="Peter Pan & Wendy (2023)" tvg-logo="http://go555.xyz:80/images/0f7136a5063d171e487def5a40817215.jpg" group-title="Filmes VOD", Peter Pan & Wendy (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89661.mkv
+#EXTINF: -1 tvg-name="Pânico VI (2023)" tvg-logo="http://go555.xyz:80/images/e0fbfb1e34329a25d3a75c5ed6ae284b.jpg" group-title="Filmes VOD", Pânico VI (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89668.mkv
+#EXTINF: -1 tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="http://go555.xyz:80/images/fdca6e1228fbbff333b967732534241c.jpg" group-title="Filmes VOD", Amor ao Primeiro Beijo (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89857.mkv
+#EXTINF: -1 tvg-name="Assassin Club (2023)" tvg-logo="http://go555.xyz:80/images/cb9a0bb96c70eaa562e446918cba0a08.jpg" group-title="Filmes VOD", Assassin Club (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89858.mkv
+#EXTINF: -1 tvg-name="Caçador de Tormentas (2023)" tvg-logo="http://go555.xyz:80/images/e13f2908d93ca7d599beb849af27f920.jpg" group-title="Filmes VOD", Caçador de Tormentas (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89859.mkv
+#EXTINF: -1 tvg-name="Encurralados (2023)" tvg-logo="http://go555.xyz:80/images/7a5ba1e2561bc7c26f6950f0dd1fc54d.jpg" group-title="Filmes VOD", Encurralados (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89865.mkv
+#EXTINF: -1 tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="http://go555.xyz:80/images/bf1fd3d3a3dfb8cb55355e1809846827.jpg" group-title="Filmes VOD", Ghosted: Sem Resposta (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89866.mkv
+#EXTINF: -1 tvg-name="Guia de Viagem para o Amor (2023)" tvg-logo="http://go555.xyz:80/images/0bc1a5fdbc4ecf76e8878bed210f74f7.jpg" group-title="Filmes VOD", Guia de Viagem para o Amor (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89867.mkv
+#EXTINF: -1 tvg-name="Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)" tvg-logo="http://go555.xyz:80/images/1d83062eb086ef0515c15b088eb0a037.jpg" group-title="Filmes VOD", Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89868.mkv
+#EXTINF: -1 tvg-name="O Encontro Mais Longo de Todos (2023)" tvg-logo="http://go555.xyz:80/images/dfc32922f6d9c0e292a1eb731b6709ff.jpg" group-title="Filmes VOD", O Encontro Mais Longo de Todos (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89869.mkv
+#EXTINF: -1 tvg-name="O Som do Caos (2023)" tvg-logo="http://go555.xyz:80/images/ac37e242a78afeba6731954acf25bab8.jpg" group-title="Filmes VOD", O Som do Caos (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89873.mkv
+#EXTINF: -1 tvg-name="Power Rangers: Agora e Sempre (2023)" tvg-logo="http://go555.xyz:80/images/18bd883a0629ac7b6cdf002c06a67f41.jpg" group-title="Filmes VOD", Power Rangers: Agora e Sempre (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89874.mkv
+#EXTINF: -1 tvg-name="Quasimodo (2023)" tvg-logo="http://go555.xyz:80/images/e9a7dec782975a0e086ab7db9bf41141.jpg" group-title="Filmes VOD", Quasimodo (2023)
+http://milka99.xyz:80/movie/992847846383/386187307056/89875.mkv
+#EXTINF: -1 tvg-id="HBO.br" tvg-name="HBO HD¹" tvg-logo="http://go555.xyz:80/images/7c3f32aac90b037c8c40ee6673ab8423.png" group-title="HBO e Telecine", HBO HD¹
+http://milka99.xyz:80/992847846383/386187307056/6794
+#EXTINF: -1 tvg-id="HBO2.br" tvg-name="HBO 2 HD¹" tvg-logo="http://go555.xyz:80/images/e52f6f654695d2a9065d24bc890a5826.png" group-title="HBO e Telecine", HBO 2 HD¹
+http://milka99.xyz:80/992847846383/386187307056/6798
+#EXTINF: -1 tvg-id="HBOPop.br" tvg-name="HBO POP HD¹" tvg-logo="http://go555.xyz:80/images/4a861d2b790af56e190f4d794487dc02.png" group-title="HBO e Telecine", HBO POP HD¹
+http://milka99.xyz:80/992847846383/386187307056/6779
+#EXTINF: -1 tvg-id="HBOPlusBrasil.br" tvg-name="HBO+ HD¹" tvg-logo="http://go555.xyz:80/images/5cddd697b1249b0cc71ad439ca048035.png" group-title="HBO e Telecine", HBO+ HD¹
+http://milka99.xyz:80/992847846383/386187307056/6791
+#EXTINF: -1 tvg-id="HBOFamily.br" tvg-name="HBO FAMILY HD¹" tvg-logo="http://go555.xyz:80/images/9f2e5781495c1c7d39e4d24709a4e135.png" group-title="HBO e Telecine", HBO FAMILY HD¹
+http://milka99.xyz:80/992847846383/386187307056/6796
+#EXTINF: -1 tvg-id="HBOMundi.br" tvg-name="HBO MUNDI HD¹" tvg-logo="http://go555.xyz:80/images/4a2414b3e7a80604f4946317d598d81e.png" group-title="HBO e Telecine", HBO MUNDI HD¹
+http://milka99.xyz:80/992847846383/386187307056/28677
+#EXTINF: -1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="http://go555.xyz:80/images/43313d3c6d366a52549117fccd20191a.png" group-title="HBO e Telecine", HBO SIGNATURE HD¹
+http://milka99.xyz:80/992847846383/386187307056/6910
+#EXTINF: -1 tvg-id="HBOXtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="http://go555.xyz:80/images/3d055a16317f97e97ff2dcf6545f13e2.png" group-title="HBO e Telecine", HBO XTREME HD¹
+http://milka99.xyz:80/992847846383/386187307056/28688
+#EXTINF: -1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="http://go555.xyz:80/images/6f8c71f40a7fa1632033551dc4c1ea27.png" group-title="HBO e Telecine", TELECINE ACTION HD¹
+http://milka99.xyz:80/992847846383/386187307056/6704
+#EXTINF: -1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="http://go555.xyz:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="HBO e Telecine", TELECINE CULT HD¹
+http://milka99.xyz:80/992847846383/386187307056/6702
+#EXTINF: -1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="http://go555.xyz:80/images/27e22929e9e066bb151d12d0123e59e1.png" group-title="HBO e Telecine", TELECINE FUN HD¹
+http://milka99.xyz:80/992847846383/386187307056/6700
+#EXTINF: -1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="http://go555.xyz:80/images/e9f7d0b2402816ffb479daeabb0536f3.png" group-title="HBO e Telecine", TELECINE PREMIUM HD¹
+http://milka99.xyz:80/992847846383/386187307056/6696
+#EXTINF: -1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="http://go555.xyz:80/images/47b777bf69acf8a6bc26001db7e41666.png" group-title="HBO e Telecine", TELECINE PIPOCA HD¹
+http://milka99.xyz:80/992847846383/386187307056/6698
+#EXTINF: -1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="https://1.bp.blogspot.com/-_zrfwMseBLU/XupNHchPiyI/AAAAAAAAGX8/u4XbdTUU6bYTCARlM9b__0ajPz_26eV-wCK4BGAYYCw/s400/telecine%2Btouh.png" group-title="HBO e Telecine", TELECINE TOUCH HD¹
+http://milka99.xyz:80/992847846383/386187307056/6693
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="BABY TV HD¹" tvg-logo="http://mytv.tv.br/canais/babytv.png" group-title="Infantil", BABY TV HD¹
+http://milka99.xyz:80/992847846383/386187307056/6749
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="CARTOONITO HD¹" tvg-logo="https://yt3.ggpht.com/HB73UhOxhgiBeKmDZKPcE2AL9g1Yp-haVhotufg76JsAA-0LmAjCzsedZcr0kpCHTcsWvyFk=s900-c-k-c0x00ffffff-no-rj" group-title="Infantil", CARTOONITO HD¹
+http://milka99.xyz:80/992847846383/386187307056/28493
+#EXTINF: -1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="http://go555.xyz:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="Infantil", CARTOON NETWORK HD¹
+http://milka99.xyz:80/992847846383/386187307056/28504
+#EXTINF: -1 tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="Infantil", DISCOVERY KIDS SD¹
+http://milka99.xyz:80/992847846383/386187307056/33918
+#EXTINF: -1 tvg-id="DisneyChannel.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="Infantil", DISNEY CHANNEL SD¹
+http://milka99.xyz:80/992847846383/386187307056/33911
+#EXTINF: -1 tvg-id="Gloob.br" tvg-name="GLOOB HD¹" tvg-logo="http://go555.xyz:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="Infantil", GLOOB HD¹
+http://milka99.xyz:80/992847846383/386187307056/6911
+#EXTINF: -1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD¹" tvg-logo="http://go555.xyz:80/images/5616d50a5a7196bb3e4d0116cf7f3671.png" group-title="Infantil", GLOOBINHO HD¹
+http://milka99.xyz:80/992847846383/386187307056/39449
+#EXTINF: -1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD¹" tvg-logo="http://go555.xyz:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="Infantil", NICKELODEON HD¹
+http://milka99.xyz:80/992847846383/386187307056/28718
+#EXTINF: -1 tvg-id="NickJr.br" tvg-name="NICK JR HD¹" tvg-logo="http://go555.xyz:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="Infantil", NICK JR HD¹
+http://milka99.xyz:80/992847846383/386187307056/28716
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="TOONCAST SD¹" tvg-logo="http://go555.xyz:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="Infantil", TOONCAST SD¹
+http://milka99.xyz:80/992847846383/386187307056/28805
+#EXTINF: -1 tvg-id="RaTimBum.br" tvg-name="TV RA TIM BUM HD¹" tvg-logo="https://2.bp.blogspot.com/-PoyMSzIr24E/XupD-zDa27I/AAAAAAAAGWo/1bPCe_4hEW0okuEXraZhm-OulljSc-xjQCK4BGAYYCw/s400/tv%2Bra%2Btim%2Bbum.png" group-title="Infantil", TV RA TIM BUM HD¹
+http://milka99.xyz:80/992847846383/386187307056/6725
+#EXTINF: -1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD¹" tvg-logo="http://go555.xyz:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="Infantil", ZOOMOO HD¹
+http://milka99.xyz:80/992847846383/386187307056/28826
+#EXTINF: -1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD¹" tvg-logo="http://go555.xyz:80/images/5d202964c704059ab2e7ad2d279bac65.png" group-title="Noticiarios", CNN BRASIL SD¹
+http://milka99.xyz:80/992847846383/386187307056/38429
+#EXTINF: -1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="http://go555.xyz:80/images/d92e1c5d757f74c3d6d82f710d2966ad.png" group-title="Noticiarios", GLOBO NEWS SD¹
+http://milka99.xyz:80/992847846383/386187307056/70577
+#EXTINF: -1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://go555.xyz:80/images/2eaab930717a7c99df1ce3c2d7dc08c1.png" group-title="Noticiarios", BAND NEWS HD¹
+http://milka99.xyz:80/992847846383/386187307056/6877
+#EXTINF: -1 tvg-name="JP NEWS SD¹" tvg-logo="http://go555.xyz:80/images/4e4d4fa2737d1be6862e3bb958f899dc.png" group-title="Noticiarios", JP NEWS SD¹
+http://milka99.xyz:80/992847846383/386187307056/72839
+#EXTINF: -1 tvg-id="AandE.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://go555.xyz:80/images/c2d04c39b9dfc5e0e7aa2899cec7d159.png" group-title="Noticiarios", RECORD NEWS HD¹
+http://milka99.xyz:80/992847846383/386187307056/28746
+#EXTINF: -1 tvg-name="CNN INTERNACIONAL¹" tvg-logo="http://go555.xyz:80/images/59d2b8a9e100d8c38b0fbfcd5578f30d.png" group-title="Noticiarios", CNN INTERNACIONAL¹
+http://milka99.xyz:80/992847846383/386187307056/17209
+#EXTINF: -1 tvg-name="BBC WORLD NEWS¹" tvg-logo="http://go555.xyz:80/images/4235bbae3a1cda67731a773a5ceb6c6a.png" group-title="Noticiarios", BBC WORLD NEWS¹
+http://milka99.xyz:80/992847846383/386187307056/28447
+#EXTINF: -1 tvg-name="BLOOMBERG BRASIL¹" tvg-logo="http://go555.xyz:80/images/41ac686d86689fad404afb3c543ffcf4.png" group-title="Noticiarios", BLOOMBERG BRASIL¹
+http://milka99.xyz:80/992847846383/386187307056/18191
+#EXTINF: -1 tvg-name="USA: CBS News~" tvg-logo="http://go555.xyz:80/images/fd6a743b198ac78ef4645eb47acc1adc.png" group-title="Noticiarios", USA: CBS News~
+http://milka99.xyz:80/992847846383/386187307056/19600
+#EXTINF: -1 tvg-name="USA: FOX NEWS" tvg-logo="http://go555.xyz:80/images/748c98a834788117e9a8f37977dde51c.png" group-title="Noticiarios", USA: FOX NEWS
+http://milka99.xyz:80/992847846383/386187307056/33902
+#EXTINF: -1 tvg-name="USA: ABC NEWS" tvg-logo="http://go555.xyz:80/images/04eb68fef2c062a1eccc6112f9a2244b.png" group-title="Noticiarios", USA: ABC NEWS
+http://milka99.xyz:80/992847846383/386187307056/38061
+#EXTINF: -1 tvg-name="ESP: TVE 24 HORAS~" tvg-logo="http://go555.xyz:80/images/79eb51ae570ece140e9fb0b34513e38d.png" group-title="Noticiarios", ESP: TVE 24 HORAS~
+http://milka99.xyz:80/992847846383/386187307056/33875
+#EXTINF: -1 tvg-id="Sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://go555.xyz:80/images/3683a47706db2255588de8c97e3e9ebc.png" group-title="Esportes", SPORTV SD¹
+http://milka99.xyz:80/992847846383/386187307056/33851
+#EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SPORTV2 SD¹" tvg-logo="http://go555.xyz:80/images/0432847df4ab44c0ec18243223fbec16.png" group-title="Esportes", SPORTV2 SD¹
+http://milka99.xyz:80/992847846383/386187307056/33855
+#EXTINF: -1 tvg-id="SporTV3.br" tvg-name="SPORTV3 SD¹" tvg-logo="https://images2.imgbox.com/59/6c/saMSZKmp_o.png" group-title="Esportes", SPORTV3 SD¹
+http://milka99.xyz:80/992847846383/386187307056/33856
+#EXTINF: -1 tvg-name="PREMIERE 1 SD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 1 SD¹
+http://milka99.xyz:80/992847846383/386187307056/40544
+#EXTINF: -1 tvg-name="PREMIERE 2 SD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 2 SD¹
+http://milka99.xyz:80/992847846383/386187307056/40545
+#EXTINF: -1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 3 SD¹
+http://milka99.xyz:80/992847846383/386187307056/40546
+#EXTINF: -1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 4 HD¹
+http://milka99.xyz:80/992847846383/386187307056/14165
+#EXTINF: -1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 5 HD¹
+http://milka99.xyz:80/992847846383/386187307056/6771
+#EXTINF: -1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD¹" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 6 HD¹
+http://milka99.xyz:80/992847846383/386187307056/6773
+#EXTINF: -1 tvg-id="Premiere 7 FHD" tvg-name="PREMIERE 7 HD" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 7 HD
+http://milka99.xyz:80/992847846383/386187307056/14168
+#EXTINF: -1 tvg-name="PREMIERE 8 HD" tvg-logo="http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png" group-title="Esportes", PREMIERE 8 HD
+http://milka99.xyz:80/992847846383/386187307056/90091
+#EXTINF: -1 tvg-id="ESPNBrasil.br" tvg-name="ESPN SD¹" tvg-logo="http://go555.xyz:80/images/30853d5b01066de33816a245bca5cdd9.png" group-title="Esportes", ESPN SD¹
+http://milka99.xyz:80/992847846383/386187307056/33850
+#EXTINF: -1 tvg-id="ESPN.br" tvg-name="ESPN 2 HD¹" tvg-logo="http://go555.xyz:80/images/1fe3880f33938a3ad7e5afda9089dc73.png" group-title="Esportes", ESPN 2 HD¹
+http://milka99.xyz:80/992847846383/386187307056/19801
+#EXTINF: -1 tvg-id="ESPN2.br" tvg-name="ESPN 3 HD¹" tvg-logo="http://go555.xyz:80/images/d6e345c0a2397dcdc61f8b162772a129.png" group-title="Esportes", ESPN 3 HD¹
+http://milka99.xyz:80/992847846383/386187307056/14148
+#EXTINF: -1 tvg-id="FoxSports.br" tvg-name="ESPN 4 HD¹" tvg-logo="http://go555.xyz:80/images/65e162ce69dcedf3f56a8989ec2c4776.png" group-title="Esportes", ESPN 4 HD¹
+http://milka99.xyz:80/992847846383/386187307056/6808
+#EXTINF: -1 tvg-id="ESPNExtra.br" tvg-name="ESPN EXTRA HD¹" tvg-logo="http://go555.xyz:80/images/7f51eeb42074127e10f6841c1c4770c0.png" group-title="Esportes", ESPN EXTRA HD¹
+http://milka99.xyz:80/992847846383/386187307056/14147
+#EXTINF: -1 tvg-id="FoxSports2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://go555.xyz:80/images/21c4bb6309f7448950fd4d490493f04e.png" group-title="Esportes", FOX SPORTS 2 HD¹
+http://milka99.xyz:80/992847846383/386187307056/6912
+#EXTINF: -1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://go555.xyz:80/images/9aafe64300437e0cabec3804334ce2bd.png" group-title="Esportes", BAND SPORTS HD¹
+http://milka99.xyz:80/992847846383/386187307056/6874
+#EXTINF: -1 tvg-id="Combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://images2.imgbox.com/01/2b/ltjrjsnu_o.png" group-title="Esportes", COMBATE SD¹
+http://milka99.xyz:80/992847846383/386187307056/33881
+#EXTINF: -1 tvg-id="FishTV.br" tvg-name="FISH TV HD¹" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhrgl3vA6RsCnrqMaFcwZoAyvFkCON0vQcxvo10vQ=s900-c-k-c0x00ffffff-no-rj" group-title="Esportes", FISH TV HD¹
+http://milka99.xyz:80/992847846383/386187307056/6916
+#EXTINF: -1 tvg-name="NBA TV·**·" tvg-logo="http://go555.xyz:80/images/46ec56139bd611012015633770f316bb.png" group-title="Esportes", NBA TV·**·
+http://milka99.xyz:80/992847846383/386187307056/63477
